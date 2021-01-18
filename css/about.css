@@ -29,7 +29,7 @@ a.logo{
     background-image: url("../img/the-lake-logo-b.png");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center;  
+    background-position: center;
     text-indent: -10000px;
 }
 
@@ -280,8 +280,8 @@ article.a6{
     opacity: 0.3;
 }
 
-.a7:hover .hover-on-img, 
-.a3:hover .hover-on-img, 
+.a7:hover .hover-on-img,
+.a3:hover .hover-on-img,
 .a1:hover .hover-on-img{
     opacity: 1;
 }
